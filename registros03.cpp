@@ -44,7 +44,7 @@ int main(){
 
             if (control2 == 0)
             {
-                cout<<"Ninguno"<<endl;
+                cout<<"\tNinguno"<<endl;
             }
             
         } else{
